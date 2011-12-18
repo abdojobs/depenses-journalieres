@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.15">
+	   <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="vertical">
+
+			<TextView android:text="@string/clabel_type" android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp" />
+			<Spinner android:id="@+id/acceditor_type" android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:prompt="@string/type_prompt" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" />
+
+			<TextView android:text="@string/label_initial_value" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_marginLeft="5dp" />
+	
+	        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal"  android:layout_weight="1"
+                 android:layout_marginLeft="20dp" android:layout_marginRight="20dp">
+	            <EditText android:inputType="numberSigned" android:layout_height="wrap_content" android:id="@+id/acceditor_initval" android:layout_weight="4" android:layout_width="fill_parent" android:text="20">
+	                <requestFocus></requestFocus>
+	            </EditText>
+				 
+				 
+		     </LinearLayout> 
+		     
+                 
+        </LinearLayout>
+    </ScrollView>
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal"  android:layout_marginTop="10dp" android:layout_weight="0.81">
+		<Button android:layout_height="wrap_content" android:id="@+id/acceditor_ok" android:layout_width="wrap_content" android:text="@string/cact_ok" android:layout_weight="0.39"></Button>
+		<Button android:layout_height="52dp" android:id="@+id/acceditor_view" android:layout_width="wrap_content" android:text="@string/cact_view" android:layout_weight="0.33"></Button>
+	</LinearLayout>
+</LinearLayout>

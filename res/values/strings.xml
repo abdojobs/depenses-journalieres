@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_register">Expenses Calculator</string>
+	<string name="app_name">Expenses Calculator</string>
+	<string name="cap_user">User</string>
+	<string name="cap_username">Username</string>
+   
+    
+    <string name="label_initial_value">Sum</string>
+    <string name="label_money">Money</string>
+   
+   
+    <string name="type_prompt">Choose Type</string>
+    <string name="hello">hello</string>
+    
+    <string name="cact_cancel">Cancel</string>
+    <string name="cact_view">View</string>
+    <string name="cact_close">Close</string>
+    <string name="cact_ok">Submit</string>
+    <string name="cact_stop">Stop</string>
+    <string name="clabel_name">Name</string>
+    <string name="clabel_type">Type</string>
+    
+    <string name="clabel_default">Default</string>
+    
+    <string-array name="type">
+        <item>Food</item>
+        <item>Oil</item>
+        <item>Clothes</item>
+        <item>Others</item>
+    </string-array>
+    
+   
+    
+    
+</resources>
+
+	
