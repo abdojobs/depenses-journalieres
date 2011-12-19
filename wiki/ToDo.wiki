@@ -2,12 +2,11 @@
 
 = TO DO =
 
-Fix a bug: 
+-Fix a bug: 
 1.Submit a new expended sum(clicking on button "submit")
 2.click on button "view"
 3.clicking "back" on the right panel
 4.click on button "submit"
 5.error
 
-Adding line codes to synchronise between the application database "Expenses" and a web-based database 
-
+-Adding line codes to synchronise between the application database "Expenses" and a web-based database 
