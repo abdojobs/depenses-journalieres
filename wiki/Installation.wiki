@@ -8,7 +8,7 @@ Installation from the official project's page
 = Details =
 
    
- 1. Go to http://code.google.com/p/ankidroid/downloads/list
+ 1. Go to http://code.google.com/p/depenses-journalieres/downloads/list
  2. Download the executable file (.apk) by clicking on it
  3. Move the downloaded .apk to the sd card on your device
  4. On your device, activate the option "Unknown sources", under "Settings" -> "Applications"
