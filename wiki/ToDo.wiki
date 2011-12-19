@@ -9,4 +9,4 @@
 4.click on button "submit"
 5.error
 
--Adding line codes to synchronize between the application database "Expenses" and a web-based database 
+-Adding line codes to synchronize between the application database "Expenses" and the database of a web-based application
