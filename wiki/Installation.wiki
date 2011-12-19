@@ -2,7 +2,7 @@
 
 = Introduction =
 
-From the official project's page
+Installation from the official project's page
 
  
 = Details =
