@@ -5,7 +5,7 @@
 Installation from the official project's page
 
  
-= Details =
+= Steps =
 
    
  1. Go to http://code.google.com/p/depenses-journalieres/downloads/list
