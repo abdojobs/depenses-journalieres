@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+From the official project's page
+
+ 
+= Details =
+
+   
+   1. Go to http://code.google.com/p/ankidroid/downloads/list
+   2. Download the executable file (.apk) by clicking on it
+   3. Move the downloaded .apk to the sd card on your device
+   4. On your device, activate the option "Unknown sources", under "Settings" -> "Applications"
+   5. If you don't already have a file manager, download "ASTRO File Manager" from Android Market, searching for "Astro"
+   6. Open your file manager (e.g. "ASTRO File Manager") and look for the .apk you moved to your sd card
+   7. Click on the .apk, open App Manager and install
