@@ -1,0 +1,10 @@
+# TO DO #
+
+-Fix a bug:
+1.Submit a new expended sum(clicking on button "submit")
+2.click on button "view"
+3.clicking "back" on the right panel
+4.click on button "submit"
+5.error
+
+-Adding line codes to synchronize between the application database "Expenses" and the database of a web-based application
